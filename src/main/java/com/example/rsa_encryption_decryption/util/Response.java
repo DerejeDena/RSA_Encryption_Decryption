@@ -3,7 +3,6 @@ package com.example.rsa_encryption_decryption.util;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.security.PrivateKey;
 
 @Getter
 @Setter
